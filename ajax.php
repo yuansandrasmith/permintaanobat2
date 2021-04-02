@@ -1,5 +1,5 @@
 <?php
-// tes yuansandra
+// tes yuansandra update
 //membuat koneksi ke database
 $koneksi = mysqli_connect("localhost", "root", "", "dinkes");
 
